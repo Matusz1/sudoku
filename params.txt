@@ -1,0 +1,9 @@
+pop_size 5000
+m_prob   0.01
+c_prob   0.6
+
+iters_max   5000
+iters_reset 100
+resets_max  50
+
+weight_const 100
